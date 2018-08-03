@@ -1,0 +1,98 @@
+"*":
+  Zen:
+    softWrap: true
+    typewriter: true
+  "autocomplete-ruby":
+    rsensePath: "/Users/kaleblape/.rbenv/versions/2.4.0/bin/rsense"
+    suggestionPriority: true
+  core:
+    audioBeep: false
+    disabledPackages: [
+      "linter-coffeelint"
+      "linter"
+      "rails-model-schema"
+      "omnisharp-atom"
+      "fonts"
+      "autocomplete-ruby"
+      "terminal-plus"
+      "ruby-test"
+      "ruby-navigator"
+      "rspec"
+      "rails-rspec"
+      "rails-i18n-autocomplete"
+      "linter-haml"
+      "language-babel"
+      "json-schema"
+      "git-time-machine"
+      "git-plus"
+      "autocomplete-gemfile"
+      "atom-yeoman"
+      "language-javascript-better"
+      "typewriter"
+      "language-gfm"
+      "rubocop-auto-correct"
+    ]
+    packagesWithKeymapsDisabled: []
+    telemetryConsent: "no"
+    themes: [
+      "one-light-ui"
+      "flatwhite-syntax"
+    ]
+  editor:
+    fontFamily: "Source Code Pro"
+    fontSize: 15
+    invisibles: {}
+    lineHeight: 2.5
+    scrollPastEnd: true
+    showIndentGuide: true
+    showInvisibles: true
+  "exception-reporting":
+    userId: "445743b7-356f-6253-005d-b103e1631b3c"
+  "flatwhite-syntax":
+    ebmedded: "Full"
+  fonts:
+    fontFamily: "Source Code Pro Extra Light"
+  "git-blame":
+    columnWidth: 306
+    customCommitUrlTemplateString: "https://lab.metova.com/<%- project %>/<%- repo %>/commit/<%- revision %>"
+    dateFormatString: "MM-DD-YY"
+    useCustomUrlTemplateIfStandardRemotesFail: true
+  "git-plus": {}
+  "language-babel": {}
+  linter:
+    showErrorPanel: false
+  "linter-rubocop": {}
+  "markdown-preview": {}
+  minimap:
+    plugins:
+      "git-diff": true
+      "git-diffDecorationsZIndex": 0
+  "one-dark-ui": {}
+  "platformio-ide-terminal":
+    toggles:
+      cursorBlink: false
+      selectToCopy: false
+  "rails-rspec": {}
+  "ruby-test":
+    specFramework: "rspec"
+  "split-diff":
+    diffWords: true
+    ignoreWhitespace: true
+    leftEditorColor: "red"
+    rightEditorColor: "green"
+    syncHorizontalScroll: true
+  tablr: {}
+  "terminal-panel": {}
+  "tree-view":
+    hideVcsIgnoredFiles: true
+  typewriter: {}
+  welcome:
+    showOnStartup: false
+  whitespace:
+    ignoreWhitespaceOnlyLines: true
+".cs.source":
+  editor:
+    tabLength: 4
+"source.gfm":
+  editor:
+    softWrap: true
